@@ -1,1 +1,1 @@
-# Typescript-maps-project
+# Typescript-map
